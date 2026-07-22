@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MeetSmart AI//meetsmart.thinkpalm.com//
+BEGIN:VEVENT
+SUMMARY:Sprint Planning
+DTSTART:20260722T153000
+DTEND:20260722T160000
+DTSTAMP:20260721T060955Z
+UID:5a5e2271-f831-421b-bf6c-8268b7ec729e@meetsmart.thinkpalm.com
+ATTENDEE:mailto:priya@thinkpalm.com
+ATTENDEE:mailto:aneesh.ks@thinkpalm.com
+DESCRIPTION:Plan this week sprint and assign QA tasks
+ORGANIZER:mailto:ismail@thinkpalm.com
+END:VEVENT
+END:VCALENDAR

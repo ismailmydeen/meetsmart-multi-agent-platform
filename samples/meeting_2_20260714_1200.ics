@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MeetSmart AI//meetsmart.thinkpalm.com//
+BEGIN:VEVENT
+SUMMARY:Sync-up
+DTSTART:20260714T120000
+DTEND:20260714T123000
+DTSTAMP:20260713T093004Z
+UID:b8439d41-780e-462a-8461-f24fa9b21d7f@meetsmart.thinkpalm.com
+ATTENDEE:mailto:ismail@thinkpalm.com
+ATTENDEE:mailto:aneesh.ks@thinkpalm.com
+DESCRIPTION:Meeting Title: Sync-up\n\nIsmail:\nGood afternoon everyone. Le
+ t's review the project status.\n\nPriya:\nThe backend APIs are completed. 
+ Employee availability and booking endpoints are working successfully.\n\nR
+ ahul:\nThe Streamlit frontend is integrated with the backend. Users can vi
+ ew available meeting slots.\n\nAneesh:\nThe next task is to implement the 
+ Booking Agent so that selected slots are saved in the database. After that
+ \, we'll generate an .ics calendar invite and email it to all participants
+ .\n\nIsmail:\nWe'll also implement AI-generated meeting notes\, a Word-for
+ mat Minutes of Meeting (MoM)\, and reminder emails for pending action item
+ s.\n\nPriya:\nI'll complete the Booking Agent by tomorrow.\n\nRahul:\nI'll
+  test the booking workflow and validate the calendar invite generation.\n\
+ nMeeting Ended.
+ORGANIZER:mailto:ismail@thinkpalm.com
+END:VEVENT
+END:VCALENDAR

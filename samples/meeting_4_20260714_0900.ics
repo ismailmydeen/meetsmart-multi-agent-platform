@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MeetSmart AI//meetsmart.thinkpalm.com//
+BEGIN:VEVENT
+SUMMARY:Sync-up
+DTSTART:20260714T090000
+DTEND:20260714T093000
+DTSTAMP:20260713T100518Z
+UID:d1a1178b-3d43-4d82-8a4e-5b393a8f8ed8@meetsmart.thinkpalm.com
+ATTENDEE:mailto:ismail@thinkpalm.com
+DESCRIPTION:daily update
+ORGANIZER:mailto:ismail@thinkpalm.com
+END:VEVENT
+END:VCALENDAR

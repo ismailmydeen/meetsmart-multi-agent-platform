@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MeetSmart AI//meetsmart.thinkpalm.com//
+BEGIN:VEVENT
+SUMMARY:Sprint Planning
+DTSTART:20260717T110000
+DTEND:20260717T113000
+DTSTAMP:20260716T100506Z
+UID:c00670b3-0364-4555-bcdd-fd3dd424b57f@meetsmart.thinkpalm.com
+ATTENDEE:mailto:ismail@thinkpalm.com
+ATTENDEE:mailto:priya@thinkpalm.com
+ATTENDEE:mailto:rahul@thinkpalm.com
+ORGANIZER:mailto:ismail@thinkpalm.com
+END:VEVENT
+END:VCALENDAR

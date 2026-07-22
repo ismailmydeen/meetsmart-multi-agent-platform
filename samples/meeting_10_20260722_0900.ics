@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MeetSmart AI//meetsmart.thinkpalm.com//
+BEGIN:VEVENT
+SUMMARY:Orchestrated Sync
+DTSTART:20260722T090000
+DTEND:20260722T093000
+DTSTAMP:20260720T075406Z
+UID:48087bdf-ae1c-4321-9653-a5cabc0ad5b6@meetsmart.thinkpalm.com
+ATTENDEE:mailto:ismail@thinkpalm.com
+ATTENDEE:mailto:priya@thinkpalm.com
+ORGANIZER:mailto:ismail@thinkpalm.com
+END:VEVENT
+END:VCALENDAR
