@@ -1,7 +1,6 @@
 # MeetSmart AI — Internal Calendly-Style Meeting Platform
 
-Full-stack agentic meeting-booking platform for ThinkPalm teams — from slot
-discovery to post-meeting artefact delivery, using only free tools.
+Full-stack agentic meeting-booking platform for internal teams, from slot discovery to post-meeting delivery, built entirely with free tools.
 
 ![Architecture diagram](docs/architecture.png)
 
